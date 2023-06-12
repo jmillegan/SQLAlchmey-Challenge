@@ -5,4 +5,4 @@ Used code from Jupyter noted in first step to create app.py first half.  Tested 
 VS code, had a lot of outside help from a friend on how to code.  This was complicated
   Used slack overflow, chatgpt to help explain logics and google as well as W3school
   Left parts in VS code my instruction told me to take out as 'commited' out items. as to just follow the homework direction, but my instructor took them out.
-  
+ Kokoe A and I again partnered to completed this homework
